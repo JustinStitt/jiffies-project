@@ -23,3 +23,13 @@ Justin Stitt
 ```
 
 ![](/media/seconds_sample_out.png)
+
+## Proc Cleanup
+
+Removal of procedure path upon module removal.
+
+```
+> $ sudo dmesg
+```
+
+![](/media/cleanup_img.png)
