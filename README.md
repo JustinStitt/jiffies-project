@@ -6,10 +6,20 @@ Justin Stitt
 ## Usage
 ```
 > $ make
+> !~~ Use appropriate 'Makefile' for each of the two included modules
 > $ sudo insmod 'jiffies'/'seconds'.ko
-> $ cat /proc/'jiffies'/'seconds'
+> !~~ Two modules included, insert either 'jiffies' or 'seconds'
 ```
 ## Output
 
-![/media/jiffies_sample_out.png]()
-![/media/seconds_sample_out.png]()
+```
+> $ cat /proc/jiffies
+```
+
+![](/media/jiffies_sample_out.png)
+
+```
+> $ cat /proc/seconds
+```
+
+![](/media/seconds_sample_out.png)
