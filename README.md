@@ -10,7 +10,7 @@ Justin Stitt
 > $ sudo insmod 'jiffies'/'seconds'.ko
 > !~~ Two modules included, insert either 'jiffies' or 'seconds'
 ```
-## Output
+## Sample Output
 
 ```
 > $ cat /proc/jiffies
