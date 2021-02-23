@@ -29,7 +29,7 @@ Justin Stitt
 Removal of procedure path upon module removal.
 
 ```
-> $ sudo rmmod 'jiffies'/'seocnds'
+> $ sudo rmmod 'jiffies'/'seconds'
 ```
 
 ![](/media/cleanup_img.png)
